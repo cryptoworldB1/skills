@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crypto Market Data"
+  short_description: "Fetch live and historical crypto prices"
+  default_prompt: "Use $crypto-market-data to fetch BTC realtime and historical market data."
